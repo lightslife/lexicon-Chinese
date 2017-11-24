@@ -1,0 +1,10 @@
+0	LING_2
+1	YI_1
+2	ER_4
+3	SAN_1
+4	SI_4
+5	WU_3
+6	LIU_4
+7	QI_1
+8	BA_1
+9	JIU_3
