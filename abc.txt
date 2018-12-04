@@ -1,0 +1,38 @@
+A ei1
+B b i1 
+B b i4
+C s ei1
+D d i4
+E ii i1
+E ii i4
+F ai2 f u3
+G j i4
+H ai2 q v3
+I aa ai1
+I aa ai4
+@ aa ai4 t e4
+J j ei1
+J j ei4
+K k ei1
+K k ei4
+L ei1 o2
+M ei1 m
+N ee en1
+O oo ou1
+O oo ou4
+P p i1
+P p i4
+Q k ii ou1
+Q k ii ou4
+R aa er5
+S ei1 s
+T t i1
+T t i4
+U ii iu1
+V uu ui1
+W d a2 b u4 l iu1
+W d a2 b u4 l iu2
+X ei1 k s
+Y uu uai4
+Z r ei4
+Z z ei4

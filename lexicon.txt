@@ -1,7 +1,9 @@
-21三体综合症 ee er4 sh ix2 ii i1 s an1 t i3 z ong1 h e2 zh eng4
+A ei1
 〨 b a1
 瓸 b ai3 uu ua3
 B b i1
+B b i1 
+B b i4
 㮎 b ei1
 㺍 b ian1
 䇲 c e4
@@ -9,19 +11,29 @@ B b i1
 䌷 ch ou2
 䝙 ch u1
 䲠 ch un1
+C s ei1
 垈 d ai4
+D d i4
 㩐 d en4
 〢 ee er4
+E ii i1
+E ii i4
 鍅 f a3
+F ai2 f u3
 䬠 f ei1
 瓰 f en1 uu ua3
 㷭 f eng1
 㱾 g ai1
 焿 g eng1
 㹴 g eng3
+G j i4
 䯄 g ua1
+H ai2 q v3
 瓱 h ao2 uu ua3
 㺢 h uo4
+I aa ai1
+I aa ai4
+@ aa ai4 t e4
 〡 ii i1
 㚻 j i1
 亽 j i2
@@ -29,8 +41,13 @@ B b i1
 㗎 j ia4
 䴔 j iao1
 〩 j iu3
+J j ei1
+J j ei4
+K k ei1
+K k ei4
 㐄 k ua4
 熴 k un1
+L ei1 o2
 瓼 l i3 uu ua3
 栃 l i4
 冧 l in2
@@ -38,18 +55,28 @@ B b i1
 〦 l iu4
 䁖 l ou1
 囖 l uo5
+M ei1 m
 袮 m i5
 旀 m ie5
 麿 m o3
+N ee en1
 袮 n i3
+O oo ou1
+O oo ou4
 䦕 p eng1
 魸 p ian4
+P p i1
+P p i4
 〧 q i1
 峠 q ia3
+Q k ii ou1
+Q k ii ou4
+R aa er5
 祍 r en4
 嘥 s ai1
 〣 s an1
 穯 s e4
+S ei1 s
 䍹 sh an1
 榊 sh en2
 䴓 sh ix1
@@ -59,9 +86,16 @@ SIL sil
 㞞 s ong2
 <SPOKEN_NOISE> sil
 䴘 t i1
+T t i1
+T t i4
+U ii iu1
 〥 uu u3
 㖞 uu uai1
 揻 uu ui1
+V uu ui1
+W d a2 b u4 l iu1
+W d a2 b u4 l iu2
+X ei1 k s
 㢴 x i1
 㿝 x iang1
 㶸 x ie2
@@ -70,10 +104,13 @@ SIL sil
 㐫 x iong1
 裇 x v1
 㖊 x vn2
+Y uu uai4
 乛 zh e2
 䵹 zh ix1
 ⺮ zh u2
 䗥 z ong1
+Z r ei4
+Z z ei4
 吖 aa a1
 吖 ii ia1
 吖啶 aa a1 d ing4
@@ -160693,3 +160730,4 @@ SIL sil
 胙 z uo4
 葄 z uo4
 阼 z uo4
+21三体综合症 ee er4 sh ix2 ii i1 s an1 t i3 z ong1 h e2 zh eng4
